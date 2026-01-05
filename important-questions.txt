@@ -1,0 +1,3 @@
+1 what is physical server and could server ?
+2 what is server and datacenter?
+3. what is http and https
